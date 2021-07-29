@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/quint/.dotnet/store/|arch|/|tfm|",
+      "/Users/quint/.nuget/packages"
+    ]
+  }
+}

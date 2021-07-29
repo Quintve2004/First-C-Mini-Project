@@ -3,3 +3,13 @@
 /Users/quint/Desktop/C# map/First-C-Mini-Project-1/obj/Debug/net5.0/First-C-Mini-Project-1.AssemblyInfoInputs.cache
 /Users/quint/Desktop/C# map/First-C-Mini-Project-1/obj/Debug/net5.0/First-C-Mini-Project-1.AssemblyInfo.cs
 /Users/quint/Desktop/C# map/First-C-Mini-Project-1/obj/Debug/net5.0/First-C-Mini-Project-1.csproj.CoreCompileInputs.cache
+/Users/quint/Desktop/C# map/First-C-Mini-Project-1/bin/Debug/net5.0/First-C-Mini-Project-1.deps.json
+/Users/quint/Desktop/C# map/First-C-Mini-Project-1/bin/Debug/net5.0/First-C-Mini-Project-1.runtimeconfig.json
+/Users/quint/Desktop/C# map/First-C-Mini-Project-1/bin/Debug/net5.0/First-C-Mini-Project-1.runtimeconfig.dev.json
+/Users/quint/Desktop/C# map/First-C-Mini-Project-1/bin/Debug/net5.0/First-C-Mini-Project-1.dll
+/Users/quint/Desktop/C# map/First-C-Mini-Project-1/bin/Debug/net5.0/ref/First-C-Mini-Project-1.dll
+/Users/quint/Desktop/C# map/First-C-Mini-Project-1/bin/Debug/net5.0/First-C-Mini-Project-1.pdb
+/Users/quint/Desktop/C# map/First-C-Mini-Project-1/obj/Debug/net5.0/First-C-Mini-Project-1.dll
+/Users/quint/Desktop/C# map/First-C-Mini-Project-1/obj/Debug/net5.0/ref/First-C-Mini-Project-1.dll
+/Users/quint/Desktop/C# map/First-C-Mini-Project-1/obj/Debug/net5.0/First-C-Mini-Project-1.pdb
+/Users/quint/Desktop/C# map/First-C-Mini-Project-1/obj/Debug/net5.0/First-C-Mini-Project-1.genruntimeconfig.cache
