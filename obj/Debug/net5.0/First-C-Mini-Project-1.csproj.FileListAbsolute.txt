@@ -1,0 +1,5 @@
+/Users/quint/Desktop/C# map/First-C-Mini-Project-1/obj/Debug/net5.0/First-C-Mini-Project-1.csproj.AssemblyReference.cache
+/Users/quint/Desktop/C# map/First-C-Mini-Project-1/obj/Debug/net5.0/First-C-Mini-Project-1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/quint/Desktop/C# map/First-C-Mini-Project-1/obj/Debug/net5.0/First-C-Mini-Project-1.AssemblyInfoInputs.cache
+/Users/quint/Desktop/C# map/First-C-Mini-Project-1/obj/Debug/net5.0/First-C-Mini-Project-1.AssemblyInfo.cs
+/Users/quint/Desktop/C# map/First-C-Mini-Project-1/obj/Debug/net5.0/First-C-Mini-Project-1.csproj.CoreCompileInputs.cache
