@@ -19,6 +19,10 @@ namespace Review
         }
         if(answerATM == "2"){
             AppendCreditCard(creditCards);
+            
+        } else {
+            Console.WriteLine("Try again");
+            Main();
         }
 
     } //static void main
@@ -29,7 +33,10 @@ namespace Review
         Console.WriteLine("Type your CreditCard Password: ");
         int newCreditCardPassword = Convert.ToInt32(Console.ReadLine());
         creditCards.Add(new KeyValuePair<int, int>(newCreditCardNUmber, newCreditCardPassword));
-        Console.WriteLine(creditCards);
+        
+        foreach(KeyValuePair<int, int> credit in creditCards){
+            Console.WriteLine(credit);
+        }
         Main();
 
     }
